@@ -1,4 +1,4 @@
-# EMERGENCY ROOM DATA PROJECT:ANALYSE KEY HOSPITAL INSIGHTS BY AN INTERACTIVE DASHBOARD
+# EMERGENCY ROOM DATA PROJECT: ANALYSE KEY HOSPITAL INSIGHTS BY AN INTERACTIVE DASHBOARD
 ## Introduction:
 I recently completed a project focused on analyzing hospital staff and patient data. This project presents an interactive dashboard created in Excel, leveraging Power Query, pivot tables, slicers, and data visualization tools to analyze emergency room (ER) performance metrics. The analysis provides actionable insights into patient flow, waiting times, discharge rates, and other key operational factors that impact ER efficiency.
 ## Objective:
