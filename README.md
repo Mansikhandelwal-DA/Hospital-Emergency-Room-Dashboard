@@ -18,6 +18,22 @@ The main goal of this dashboard is to analyze and optimize emergency room operat
 •	**Resource Allocation:** Identified shortage of doctors during peak hours, leading to a 25% increase in patient wait times.<br>
 •	**Patient Satisfaction:** Higher satisfaction reported when waiting time was under 2 hours.<br>
 ## Visual Analysis of Key Metrics:
+**Daily trend of wait time in august month**:
+
+![avg wait time](https://github.com/user-attachments/assets/084afcb9-8541-4169-8206-3107affa5b40)
+
+**Daily trend of number of patients in august month**:
+
+![no of patients](https://github.com/user-attachments/assets/f7c60b2b-4d7c-4753-b8fe-2154d1447ecd)
+
+**Daily trend of satisfaction score of patients in august month**:
+
+![satisfaction score](https://github.com/user-attachments/assets/f47d2183-db79-41d7-a60b-957e80581520)
+
+
+
+
+
 
 ## Features of the Dashboard:
 •	**Dynamic Filters & Slicers:** Filter data by date, patient type, issue severity, and doctor availability.<br>
@@ -29,6 +45,11 @@ The main goal of this dashboard is to analyze and optimize emergency room operat
    **Dashboard**: https://github.com/Mansikhandelwal-DA/Hospital-Emergency-Room-Dashboard/blob/main/Project%20Dashboard%20Pic.png<br>
 ## Conclusion:
 Hospital management can use this analysis to **optimize ER staffing** and reduce patient wait times.Doctors and nurses can **prioritize critical cases** based on patient influx trends.Administrators can evaluate **resource utilization** and improve overall ER efficiency.
+## Recommendations:
+•	Integration with **real-time data sources** for live updates.<br>
+•	Automated **predictive analytics** to forecast patient volume.<br>
+•	Incorporation of **machine learning models** for better patient flow management.<br>
+
 
 
 
