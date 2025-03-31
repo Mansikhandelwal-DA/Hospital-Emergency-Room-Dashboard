@@ -42,7 +42,7 @@ The main goal of this dashboard is to analyze and optimize emergency room operat
 •	**Performance Metrics:** Breakdown of patient wait times, treatment durations, and discharge rates.<br>
 
    **Dataset**: https://github.com/Mansikhandelwal-DA/Hospital-Emergency-Room-Dashboard/blob/main/Hospital%20Emergency%20Room%20Data.csv<br> 
-   **Dashboard**: https://github.com/Mansikhandelwal-DA/Hospital-Emergency-Room-Dashboard/blob/main/Project%20Dashboard%20Pic.png<br>
+   **Dashboard**: https://github.com/Mansikhandelwal-DA/Hospital-Emergency-Room-Dashboard/blob/main/project%201.xlsx<br>
 ## Conclusion:
 Hospital management can use this analysis to **optimize ER staffing** and reduce patient wait times.Doctors and nurses can **prioritize critical cases** based on patient influx trends.Administrators can evaluate **resource utilization** and improve overall ER efficiency.
 ## Recommendations:
